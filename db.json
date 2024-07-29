@@ -1858,8 +1858,8 @@
   "users": [
     {
       "id": "cb1b",
-      "email": "guest@example.com.com",
-      "password": "Murtaza123",
+      "email": "guest@example.com",
+      "password": "Guest123",
       "role": "user",
       "addresses": [
         {
